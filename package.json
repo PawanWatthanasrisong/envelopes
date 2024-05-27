@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "alert": "^6.0.1",
+    "express": "^4.19.2"
+  }
+}
